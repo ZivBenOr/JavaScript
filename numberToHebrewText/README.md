@@ -1,6 +1,6 @@
 # Number To Hebrew Text
 
-`NumberToHebrewText` does exacly what is sound: convert a given number to hebrew string.
+`NumberToHebrewText` does exactly what is sound: convert a given number to hebrew string.
 
 
 ## Usage
